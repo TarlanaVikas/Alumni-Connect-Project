@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Alumni Connect - University Alumni Management Platform
 
 A comprehensive, modern web application designed to connect university alumni, students, and administrators through a feature-rich platform.
@@ -219,6 +218,4 @@ For support and questions:
 
 **Alumni Connect** - Building stronger university communities through technology.
 
-=======
-# Alumni-Connect-Project
->>>>>>> f1b084d19f894b2f0bf1eaf78288fe4e20849136
+
