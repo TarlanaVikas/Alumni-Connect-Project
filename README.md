@@ -2,6 +2,18 @@
 
 A comprehensive, modern web application designed to connect university alumni, students, and administrators through a feature-rich platform.
 
+![React](https://img.shields.io/badge/React-18-blue?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/Vite-Frontend-purple?style=flat&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwindcss)
+![Lucide](https://img.shields.io/badge/Lucide-Icons-orange?style=flat&logo=lucide)
+![Context API](https://img.shields.io/badge/React-Context_API-61DAFB?style=flat&logo=react)
+![Router](https://img.shields.io/badge/React-Router_DOM-red?style=flat&logo=reactrouter)
+![Hook Form](https://img.shields.io/badge/React-Hook_Form-pink?style=flat&logo=reacthookform)
+![Hot Toast](https://img.shields.io/badge/React-Hot_Toast-yellow?style=flat)
+![Recharts](https://img.shields.io/badge/Recharts-Charts-green?style=flat)
+![date-fns](https://img.shields.io/badge/date--fns-Date_Handling-lightgrey?style=flat)
+![Axios](https://img.shields.io/badge/Axios-HTTP_Client-black?style=flat)
+
 ## 🚀 Features
 
 ### Core Functionality
@@ -213,9 +225,4 @@ For support and questions:
 - Integration with external services
 - Multi-language support
 - Video conferencing integration
-
----
-
-**Alumni Connect** - Building stronger university communities through technology.
-
 
